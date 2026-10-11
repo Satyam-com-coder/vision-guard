@@ -1,0 +1,6 @@
+{
+  "name": "Vision-Guard: Single-Desk Console",
+  "description": "High-fidelity single-desk invigilator surveillance console featuring live video stream telemetry, three-dot status system, 2D seating mini-map, and Web Audio synthesizer alerts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
